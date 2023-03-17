@@ -97,4 +97,4 @@ pip install --upgrade $(curl -s https://api.github.com/repos/stanfordbshan/HTMAC
 
 # Links
 
-* Materials Design and Nano-Manufacturing Center@HUST:http://www.materialssimulation.com/
+* Materials Design and Nano-Manufacturing Center@HUST:http://www.materialssimulation.com/ 
